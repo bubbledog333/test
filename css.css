@@ -1,0 +1,42 @@
+body{
+   font-family: cursive ;
+} h1{
+    text-align: center;
+    color: #AB4A01;
+}p{
+    text-align: center;
+    color: #AB4A01;
+}.home{ margin: 0 auto;
+    display: block;
+   color: #af540f;
+   text-decoration: none;
+   text-align: center;
+}.home:hover{
+    text-decoration: underline;
+    color: #4e2d16;
+  
+}.fauxtoe{
+    margin: 0 auto;
+    display: block;
+    color: #af540f;
+    text-decoration: none;
+    text-align: center;
+ }.fauxtoe:hover{
+   
+     text-decoration: underline;
+     color: #4e2d16;
+   
+ }img{
+     margin: 0 auto;
+   display: block;
+    height: 250px;
+ box-shadow:rgba(139, 138, 134, 0.37) 3px 4px 4px 3px
+
+}
+.mail{
+    color: #af540f;
+    text-decoration: none;
+}.mail:hover{
+    text-decoration: underline;
+    color:#4e2d16;
+}
